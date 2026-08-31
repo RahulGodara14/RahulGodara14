@@ -51,9 +51,9 @@ Email me 👉 📧 **[rahulgd2507@gmail.com](mailto:rahulgd2507@gmail.com)** for
 
 <br>
 
-**AI/ML:** `PyTorch` `Transformers` `scikit-learn` `Keras` `LSTM` `Computer Vision` `spaCy`
-**Languages:** `Python` `Java` `SQL`
-**MLOps & Cloud:** `Docker` `Google Earth Engine` `FastAPI` `Git` `Linux`
+**AI/ML:** `PyTorch` `Transformers` `scikit-learn` `Keras` `LSTM` `Computer Vision` `spaCy`<br>
+**Languages:** `Python` `Java` `SQL`<br>
+**MLOps & Cloud:** `Docker` `Google Earth Engine` `Git` `Linux`<br>
 **Data & Tools:** `Jupyter` `Pandas` `NumPy`
 
 <br>
