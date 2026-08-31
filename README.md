@@ -31,7 +31,6 @@ I'm a **Computer Science & Engineering (AI)** student who enjoys taking messy, r
 
 <br>
 
-<img src="https://img.shields.io/badge/CGPA-8.19%20%2F%2010-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
 <img src="https://img.shields.io/badge/1st%20Place-2×-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
 <img src="https://img.shields.io/badge/DSA-425%2B%20Solved-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
 <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20·%20GeoAI-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
