@@ -25,24 +25,18 @@
 
 ## 🧠 Who Am I?
 
-I'm a **Computer Science & Engineering (AI)** student who enjoys taking messy, real-world problems and turning them into **working products**.
+<div align="center">
 
-My sweet spot is where `AI` + `Software` + `Real World` come together.
-
-- 🎓 **B.Tech CSE (AI)** · CGPA `8.19 / 10`
-- 🤖 AI/ML · Computer Vision · Deep Learning
-- 🛰️ GeoAI · Sensor & Multi-modal Data
-- 🏗️ Product building · Hackathons
-- 🏆 **2× 1st Place** · National-level recognition
+I'm a **Computer Science & Engineering (AI)** student who enjoys taking messy, real-world problems and turning them into **working products** — where `AI` + `Software` + `Real World` collide.
 
 <br>
 
-## ⚡ Currently
+<img src="https://img.shields.io/badge/CGPA-8.19%20%2F%2010-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
+<img src="https://img.shields.io/badge/1st%20Place-2×-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
+<img src="https://img.shields.io/badge/DSA-425%2B%20Solved-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
+<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20·%20GeoAI-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
 
-- 🔭 Building end-to-end AI products — from model to deployed app
-- 🌱 Deepening my Deep Learning & MLOps fundamentals
-- 🏆 Actively competing in hackathons and DSA challenges
-- 💬 Ask me about `AI/ML`, `PyTorch`, `Computer Vision`, `FastAPI`, `Google Earth Engine`
+</div>
 
 <br>
 
@@ -58,38 +52,68 @@ My sweet spot is where `AI` + `Software` + `Real World` come together.
 
 ## 🚀 Projects I'm Proud Of
 
-### 🏥 Setu-Drishti — AI ICU Command Center
-Clinical intelligence across web + mobile, built in a 24-hour hackathon.
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-`PyTorch` `FastAPI` `XGBoost` `React` `React Native` `Gemini`
+### 🏥 Setu-Drishti
+**AI ICU Command Center**
 
-- 🧬 Sepsis prediction model trained on 40,336 PhysioNet ICU records — **0.8219 AUROC**, outperforming qSOFA and SIRS
-- 🛡️ SentinelIQ: XGBoost + Isolation Forest for EHR anomaly detection
-- 👁️ Nidana Vision: PyTorch CNN for skin-lesion triage via camera
-- 🥇 **1st Place — HackSprint 2.0**
-
-<br>
-
-### ⛏️ Mine-Sigma — AI + 3D GIS for Mining Compliance
-Satellite intelligence for open-cast mining compliance monitoring.
-
-`PyTorch` `CesiumJS` `Next.js` `Google Earth Engine`
-
-- 🛰️ Fused Sentinel-1 + Sentinel-2 imagery (5+ year archive), 6-channel tensor fusion — **91% test accuracy**
-- 📐 Auto-computes encroachment area, excavation depth & volume
-- 📄 Auto-generates PDF compliance audit reports
-- 🗺️ CesiumJS 4D timeline for visualizing encroachment over time
+<sub>Clinical intelligence across web + mobile · built in a 24h hackathon</sub>
 
 <br>
 
-### 🌱 Pollu-Stake — Environmental Compliance Enforcement
-Live telemetry → prediction → automated enforcement.
+<img src="https://img.shields.io/badge/AUROC-0.8219-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/40K%2B-ICU%20Records-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🥇-HackSprint%202.0-66F2A5?style=flat-square&labelColor=111827"/>
 
-`LSTM` `PyTorch` `FastAPI` `Next.js`
+<sub>`PyTorch` `FastAPI` `XGBoost` `React Native` `Gemini`</sub>
 
-- 📡 Real-time IoT air/water quality sensor telemetry pipeline
-- 🔮 LSTM-based forecasting to predict pollution threshold breaches
-- 🚨 Advance violation warnings + automated penalty workflow
+Sepsis prediction beating qSOFA & SIRS, plus EHR anomaly detection and camera-based skin-lesion triage.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⛏️ Mine-Sigma
+**AI + 3D GIS for Mining Compliance**
+
+<sub>Satellite intelligence for open-cast mining</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/91%25-Test%20Accuracy-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/5%2B%20yrs-Satellite%20Archive-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/4D-Timeline-66F2A5?style=flat-square&labelColor=111827"/>
+
+<sub>`PyTorch` `CesiumJS` `Next.js` `Google Earth Engine`</sub>
+
+Fuses Sentinel-1/2 imagery to auto-compute encroachment area, depth & volume, with auto-generated audit reports.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌱 Pollu-Stake
+**Environmental Compliance Enforcement**
+
+<sub>Live telemetry → prediction → enforcement</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/LSTM-Forecasting-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Real--time-IoT%20Telemetry-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Auto-Penalty%20Workflow-66F2A5?style=flat-square&labelColor=111827"/>
+
+<sub>`LSTM` `PyTorch` `FastAPI` `Next.js`</sub>
+
+Predicts pollution threshold breaches in advance and triggers automated compliance penalties.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>📂 More on <a href="https://github.com/StackOverChad?tab=repositories">GitHub → StackOverChad/repositories</a></sub>
+</div>
 
 <br>
 
@@ -124,30 +148,16 @@ Live telemetry → prediction → automated enforcement.
 
 <br>
 
-## 📊 A Few Numbers
+## 📈 GitHub Activity
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/40%2C336-ICU%20records-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-<img src="https://img.shields.io/badge/91%25-test%20accuracy-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-<img src="https://img.shields.io/badge/0.8219-AUROC-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-<img src="https://img.shields.io/badge/425%2B-DSA%20problems-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-<img src="https://img.shields.io/badge/24h-Hackathon%20build-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-
-</div>
-
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=StackOverChad&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=66F2A5&icon_color=66F2A5&text_color=e5e7eb"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverChad&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=66F2A5&text_color=e5e7eb"/>
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StackOverChad&theme=react&hide_border=true&background=0f172a&ring=66F2A5&fire=66F2A5&currStreakLabel=66F2A5"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/StackOverChad?style=for-the-badge&labelColor=111827&color=66F2A5&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=StackOverChad&style=for-the-badge&label=PROFILE+VIEWS&color=66F2A5&labelColor=111827"/>
 
 </div>
 
