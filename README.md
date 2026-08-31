@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=RAHUL%20GODARA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%20%7C%20%20PRODUCT%20BUILDER%20%20%7C%20%20PROBLEM%20SOLVER&descAlignY=62&descSize=17&animation=fadeIn&color=0:0f172a,45:12372a,100:66f2a5" width="100%"/>
 
-<a href="https://github.com/StackOverChad">
-<img src="https://img.shields.io/badge/GITHUB-StackOverChad-111827?style=for-the-badge&logo=github&logoColor=66F2A5"/>
+<a href="https://github.com/RahulGodara14">
+<img src="https://img.shields.io/badge/GITHUB-RahulGodara14-111827?style=for-the-badge&logo=github&logoColor=66F2A5"/>
 </a>
 <a href="https://www.linkedin.com/in/rahul-godara14/">
 <img src="https://img.shields.io/badge/LINKEDIN-Rahul%20Godara-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -72,12 +72,12 @@ Email me 👉 📧 **[rahulgd2507@gmail.com](mailto:rahulgd2507@gmail.com)** for
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StackOverChad&theme=react&hide_border=true&background=0f172a&ring=66F2A5&fire=66F2A5&currStreakLabel=66F2A5"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulGodara14&theme=react&hide_border=true&background=0f172a&ring=66F2A5&fire=66F2A5&currStreakLabel=66F2A5"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/StackOverChad?style=for-the-badge&labelColor=111827&color=66F2A5&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=StackOverChad&style=for-the-badge&label=PROFILE+VIEWS&color=66F2A5&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/RahulGodara14?style=for-the-badge&labelColor=111827&color=66F2A5&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=RahulGodara14&style=for-the-badge&label=PROFILE+VIEWS&color=66F2A5&labelColor=111827"/>
 
 </div>
 
