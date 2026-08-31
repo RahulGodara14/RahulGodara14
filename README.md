@@ -23,18 +23,93 @@
 
 <br>
 
-## 🧠 Who Am I?
+## 🧠 Hi 👋, I'm Rahul
 
-<div align="center">
+**Computer Science & Engineering (AI) student · Building AI products, not just AI models**
 
-I'm a **Computer Science & Engineering (AI)** student who enjoys taking messy, real-world problems and turning them into **working products** — where `AI` + `Software` + `Real World` collide.
+Email me 👉 📧 **[rahulgd2507@gmail.com](mailto:rahulgd2507@gmail.com)** for collaboration, projects, or anything else 😊
+
+- 🔭 **I'm currently working on:** end-to-end AI products — from model to deployed app
+- 🌱 **I'm currently learning:** Advanced Deep Learning & MLOps
+- 💬 **Ask me about:** AI/ML, PyTorch, Computer Vision, FastAPI, Google Earth Engine
+- 📫 **How to reach me:** rahulgd2507@gmail.com
+- ⚡ **Fun fact:** Give me 24 hours, a problem worth solving, and a team — I'll turn it into a working AI product
 
 <br>
 
-<img src="https://img.shields.io/badge/1st%20Place-2×-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-<img src="https://img.shields.io/badge/DSA-425%2B%20Solved-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20·%20GeoAI-111827?style=for-the-badge&labelColor=111827&color=66F2A5"/>
+## 🎯 The Building Loop
 
+<div align="center">
+
+**💡 Idea → 🧪 Experiment → ⚙️ Engineer → 🚀 Deploy → 📈 Improve**
+
+</div>
+
+<br>
+
+## 🚀 Projects I'm Proud Of
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🏥 Setu-Drishti
+**AI ICU Command Center**
+
+<sub>Clinical intelligence across web + mobile · built in a 24h hackathon</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/AUROC-0.8219-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/40K%2B-ICU%20Records-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🥇-HackSprint%202.0-66F2A5?style=flat-square&labelColor=111827"/>
+
+<sub>`PyTorch` `FastAPI` `XGBoost` `React Native` `Gemini`</sub>
+
+Sepsis prediction beating qSOFA & SIRS, plus EHR anomaly detection and camera-based skin-lesion triage.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⛏️ Mine-Sigma
+**AI + 3D GIS for Mining Compliance**
+
+<sub>Satellite intelligence for open-cast mining</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/91%25-Test%20Accuracy-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/5%2B%20yrs-Satellite%20Archive-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/4D-Timeline-66F2A5?style=flat-square&labelColor=111827"/>
+
+<sub>`PyTorch` `CesiumJS` `Next.js` `Google Earth Engine`</sub>
+
+Fuses Sentinel-1/2 imagery to auto-compute encroachment area, depth & volume, with auto-generated audit reports.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌱 Pollu-Stake
+**Environmental Compliance Enforcement**
+
+<sub>Live telemetry → prediction → enforcement</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/LSTM-Forecasting-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Real--time-IoT%20Telemetry-66F2A5?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Auto-Penalty%20Workflow-66F2A5?style=flat-square&labelColor=111827"/>
+
+<sub>`LSTM` `PyTorch` `FastAPI` `Next.js`</sub>
+
+Predicts pollution threshold breaches in advance and triggers automated compliance penalties.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>📂 More on <a href="https://github.com/StackOverChad?tab=repositories">GitHub → StackOverChad/repositories</a></sub>
 </div>
 
 <br>
@@ -82,17 +157,6 @@ I'm a **Computer Science & Engineering (AI)** student who enjoys taking messy, r
 <img src="https://komarev.com/ghpvc/?username=StackOverChad&style=for-the-badge&label=PROFILE+VIEWS&color=66F2A5&labelColor=111827"/>
 
 </div>
-
-<br>
-
-## 🌱 Currently Learning
-
-```text
-Deep Learning        █████████████████░░░  Advanced
-Computer Vision      ████████████████░░░░  Building
-Transformers         ██████████████░░░░░░  Exploring
-MLOps                █████████████░░░░░░░  Building
-```
 
 <br>
 
